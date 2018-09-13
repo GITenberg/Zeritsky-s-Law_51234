@@ -1,10 +1,13 @@
 _repo: Zeritsky-s-Law_51234
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Thorne
     gutenberg_agent_id: '48874'
     url: http://www.gutenberg.org/2009/agents/48874
+covers:
+- cover_type: archival
+  image_path: 51234-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffith, Ann Warren
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '46319'
     url: http://www.gutenberg.org/2009/agents/46319
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51234#Zeritsky-s-Law
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-16'
 gutenberg_type: Text
